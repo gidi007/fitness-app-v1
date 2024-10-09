@@ -70,13 +70,15 @@ Interactive Charts – Visualize your progress over time.
 
 📸 Screenshots
 Homepage
-![Homepage](./screenshots/your-image.png)
+![Dashboard](https://github.com/gidi007/fitness-app-v1/blob/main/raw/Screenshot%202024-10-08%20162325.png)
 
 Setting Fitness Goals
-![Screenshot Title](./screenshots/your-image.png)
+![Screenshot Title](
+https://github.com/gidi007/fitness-app-v1/blob/main/raw/Screenshot%202024-10-08%20162606.png)
 
 Tracking Progress
-![Screenshot Title](./screenshots/your-image.png)
+![Screenshot Title](
+https://github.com/gidi007/fitness-app-v1/blob/main/raw/Screenshot%202024-10-08%20162642.png)
 
 
 🤝 Contributing
